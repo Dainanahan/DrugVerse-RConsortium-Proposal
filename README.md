@@ -2,6 +2,7 @@
 
 Following is what **DrugVerse** would be capable of doing after its completion:
 
+
 - wrangle data obtained from different drugs-related data sources and formats into forms that are more analysis-ready under R,
 - explore and mine drugs-related data in Shiny applications containing user-friendly interfaces and interactive visualizations,
 - run prediction algorithms (e.g. similarity based algorithms, feature based algorithms, semantic based algorithms, etc) for the prediction of different associations (e.g. drug-target interactions, drug-disease associations, etc.)
