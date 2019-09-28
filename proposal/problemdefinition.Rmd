@@ -8,7 +8,7 @@ As far as we know, there is no cohesive, well-integrated series of packages in R
 - explore the data from various aspects to come up with findings that are relevant to pharmaceutical researchers
 - building/implementing prediction models tailored for the challenges in the field of drug discovery
 
-Having such a series of packages would significantly reduce the time and effort required by pharmaceutical researchers in the drug discovery pipeline.
+Having such a series of packages would significantly reduce the time and effort required by pharmaceutical researchers in the drug discovery pipeline. Furthermore, since many researchers use R in their daily work, we imagine that these packages would be useful for them and the drug discovery community.
 
 
 

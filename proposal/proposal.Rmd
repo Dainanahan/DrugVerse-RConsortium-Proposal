@@ -3,10 +3,29 @@
 This is where the proposal should be outlined. 
 -->
 
+DrugVerse provides pharmaceutical researchers with different tools that mimic the data science life cycle and helps them to achieve their missions in solving challenges pertaining to drug development.
+
+
 ## Overview
 <!--
 At a high-level address what your proposal is and how it will address the problem identified. Highlight any benefits to the R Community that follow from solving the problem. This should be your most compelling section.
 -->
+
+Following is what DrugVerse would be capable of doing upon its completion:
+
+- wrangle data obtained from different drugs-related data sources and formats into forms that are more analysis-ready under R,
+- explore and mine drugs-related data in Shiny applications containing user-friendly interfaces and interactive visualizations,
+- run prediction algorithms (e.g. similarity based algorithms, feature based algorithms, semantic based algorithms, etc) for the prediction of different associations (e.g. drug-target interactions, drug-disease associations, etc.)
+- validate prediction results both quantitatively (via latest known statistical validation methods) and qualitatively (e.g. viewing highest-ranked predictions and highlighting those that are already known in the literature) in intuitive and easy-to-understand reports.
+
+
+Following the development of DrugVerse:
+
+- The R community would benefit from packages that perform data retrieval, data wrangling and building prediction models for drug development 
+- Practitioners in drug discovery would benefit from visualization facilities provided in DrugVerse that would enable them to explore data in an interactive manner
+- Practitioners would also be provided with facilities to implement cross validation strategies for use in drug discovery efforts
+
+
 
 ## Detail
 <!--
@@ -18,3 +37,23 @@ Depending on project type the detail section should include:
  - [ ] Architecture
  - [ ] Assumptions
 -->
+
+dbparser (currently at version 1.0.4, updated regularly)
+The main purpose of the R package, DrugBank Parser, is to parse the DrugBank database which is downloadable in XML format into more than 75 R dataframes. These dataframes can then be explored and analyzed as desired by the user. This package further provides the facility of saving the parsed data into a given database (e.g. MySQL).
+DrugMiner (under development)
+DrugMiner is a complete R Shiny application that can be used to do the following:
+Displaying an interactive drug-target network.
+Augmenting the visualized network with drug-enzyme, drug-transporter and drug-carrier relations.
+Selecting certain drugs to perform specific tasks on them using one of the other tools that are available in DrugVerse such as the Drug-Target Interaction Predictor (see below).
+Drug Target Interaction Predictor (under development)
+Drug-Target Interaction Predictor is a package that provides implementations of different algorithms for predicting drug-target interactions. These algorithms can be categorized as follows:
+Similarity-based methods
+Bipartite local models
+Matrix factorization methods
+Feature-based methods
+Network-based methods
+Byakugan (in planning phase, development to commence shortly)
+Byakugan is a complete R Shiny application that provides the following features:
+Extracting pharmacological information of drugs and biomedical documents using NLP and text mining techniques from different online resources to find implicit co-occurrent compound–protein relations.
+Building its own knowledge base from the extracted information
+Answering queries about drugs and targets based on the knowledge parsed from the different data sources (e.g. article abstracts, online biological databases, RDF databases, etc.)
