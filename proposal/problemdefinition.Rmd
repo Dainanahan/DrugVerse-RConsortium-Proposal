@@ -1,4 +1,18 @@
 # The Problem
+
+At present, there is no single R package (or series of packages) that acts as a one-stop shop when it comes to pharmaceutical research activities. Practitioners in the pharmaceutical industry are currently forced to work with different tools for handling the different (data science) tasks. Oftentimes, these tasks require extra effort from the practitioners to develop their own code that does what they need depending on the situation. 
+
+As far as we know, there is no cohesive, well-integrated series of packages in R that tackles tasks that are typical of a data science workflow in the field of drug discovery. Ideally, this series of packages would:
+
+- gather data from disparate data sources and be able to wrangle them despite the different formats they may come in
+- explore the data from various aspects to come up with findings that are relevant to pharmaceutical researchers
+- building/implementing prediction models tailored for the challenges in the field of drug discovery
+
+Having such a series of packages would significantly reduce the time and effort required by pharmaceutical researchers in the drug discovery pipeline.
+
+
+
+
 <!-- 
 Outlining the issue / weak point / problem to be solved by this proposal. This should be a compelling section that sets the reader up for the next section - the proposed solution!
 
