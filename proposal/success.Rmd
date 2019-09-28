@@ -7,16 +7,29 @@ Projects should have a definition of done that is measurable, and a thorough und
 <!-- 
 What does success look like? 
 -->
+The DrugVerse series of packages would all be successfully uploaded to CRAN, and a Shiny R server that is using DrugVerse would be hosted on Shiny's hosting service (R Studio).
 
 ## Measuring success
 <!-- 
 How will we know when success is achieved, what markers can we use along the way 
 -->
+- The packages would easily accessible and downloadable from CRAN
+- The users of DrugVerse and/or its Shiny R server would be able to provide us with feedback via DrugVerse's GitHub pages and via email
+- Many users would fork/star DrugVerse's repository on GitHub as well as submitting pull requests to be approved
+- We will have published a few papers on the different features provided in DrugVerse
+- Users of DrugVerse would cite our papers in their work
 
 ## Future work
 <!-- 
 How could this be extended / developed in the future by yourself and/or the community in general?
 -->
+We have the following short-term objectives in mind: 
+Conduct further research into taking advantage of heterogeneous information sources for enhancing the accuracy of the different prediction algorithms.
+Further our self-branding on social media (LinkedIn, ResearchGate, etc.) to improve our reach as well as attend conferences to show our work (see next section for more details).
+Make use of ensemble learning and deep learning to further improve accuracy of the prediction models.
+Utilizing Big Data technologies and tools in order to support the huge amounts of data that we will eventually be dealing with.
+Conduct a search for individuals who are willing to contribute to DrugVerse and who preferably possess a background in pharmaceuticals.
+
 
 ## Key risks
 <!-- 
@@ -28,3 +41,7 @@ What sort of things could come up that can delay or break the project?
  - [ ] Costs
 
 -->
+- It would hurt the project, if people who are working on it (especially the full-timers) leave for whatever reason.
+- Some of the employees reside in other countries and communicating with them may not always be efficient online.
+- Untimely delivery of DrugVerse's tools
+- Costs of salaries and web-hosting services might not be adequately covered by the provided funds,
