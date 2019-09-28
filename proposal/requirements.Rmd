@@ -7,11 +7,24 @@ An idea of what is required to make the project actually happen
 <!--
 Who needs to be involved, what's the proposed structure, what will it take to get their involvement?
 -->
+It is required to have the dedication of a minimum of:
+
+- three full-time data scientists
+- two part-time pharamceutical researchers
+- one part-time web developer
+- one part-time DevOps engineer
 
 ## Processes
 <!-- 
 What processes need to be put in place e.g. codes of conduct, regular ISC meetings, handover to the community at large?
 -->
+At present, DrugVerse is being developed under the MIT license, and the link below has our code of conduct:
+[https://github.com/Dainanahan/dbparser/blob/master/CODE_OF_CONDUCT.md](https://github.com/Dainanahan/dbparser/blob/master/CODE_OF_CONDUCT.md)
+
+We are meeting regularly for the sake of:
+
+- discussing DrugVerse's proposed features and how to implement them
+- responding to the latest issues raised by users of DrugVerse
 
 ## Tools & Tech
 <!--
@@ -21,14 +34,16 @@ Will cloud computing be used - if yes are there are necessary components that wi
 
 Are there tools or tech that don't exist that will be produced to facilitate the project?
 -->
+We intend to host the project on the cloud (RStudio hosting service) to host different web applications and data stores pertaining to DrugVerse. 
 
 ## Funding
 <!-- 
 [TO DO] THE GUIDANCE IS PRETTY UNCLEAR, ESP IN LIGHT OF GABOR'S PROPOSAL VS AWARD SIZE
-
 -->
+We will require funding for the salaries of the personnel who will be working on this project. We would also require funding to pay for the hosting service on the cloud.
 
 ## Summary
 <!--
 A summary of the requirements that contextualises the costs
 -->
+Costs of this project consist of those for paying the salaries of the personnel working on this project and hosting the project on the cloud.
