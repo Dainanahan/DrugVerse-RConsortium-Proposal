@@ -10,10 +10,17 @@ An optional section would be for R-Core signatories where changes to R are propo
 Who are the people responsible for actually delivering the project if the proposal gets accepted and are already signed up and rearing to go?
 -->
 
+1. Mohammed Ali, R&D Developer @ Upland Software
+2. Ali Ezzat, Chief Data Scientist @ Synapse Analytics
+3. Nada Mamdouh, Teaching Assistant @ Modern Academy
+4. João Torres, Linguistic Administrator @ Council of the European Union
+
+
 ## Contributors
 <!-- 
 Who are the people who have actively helped with this proposal but won't necessarily be on the core project team later?
 -->
+Contributors are all DrugVerse users who reported bugs in or requested features to be added to DrugVerse.
 
 ## Consulted
 <!-- 
