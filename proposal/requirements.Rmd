@@ -40,7 +40,11 @@ We intend to host the project on the cloud (RStudio hosting service) to host dif
 <!-- 
 [TO DO] THE GUIDANCE IS PRETTY UNCLEAR, ESP IN LIGHT OF GABOR'S PROPOSAL VS AWARD SIZE
 -->
-We will require funding for the salaries of the personnel who will be working on this project. We would also require funding to pay for the hosting service on the cloud.
+We will require funding for:
+
+- the salaries of the personnel who will be working on this project, 
+- the hosting service on the cloud and to cover papers publishing and
+- conference attendance required fees.
 
 ## Summary
 <!--
