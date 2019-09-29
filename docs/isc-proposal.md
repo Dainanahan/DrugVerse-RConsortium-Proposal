@@ -1,6 +1,6 @@
-Boilerplate ISC Proposal
+DrugVerse-RConsortium-Proposal
 ================
-Steph Locke
+Mohammed Ali
 2019-09-29
 
 # Signatories
