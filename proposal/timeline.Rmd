@@ -9,7 +9,12 @@ Covering the planning phase, this section should provide a relatively detailed p
  - [ ] Licence decisions
  - [ ] Reporting framework
 -->
+All the code is hosted in GitHub [Dainanahan Account](https://github.com/Dainanahan) in which each tool is hosted in its own reprository (i.e. [dbparser](https://github.com/Dainanahan/dbparser)). Moreover, each tool has the following:
 
+- MIT License, i.e. [dbparser license](https://github.com/Dainanahan/dbparser/blob/master/LICENSE)
+- Code of Conduct, i.e. [dbparser code of conduct](https://github.com/Dainanahan/dbparser/blob/master/CODE_OF_CONDUCT.md)
+- Reporting issues, i.e. [dbparser issues reporting](https://github.com/Dainanahan/dbparser/issues)
+- Tool Site and Documentation, i.e. [dbparser site](https://dainanahan.github.io/dbparser/index.html)
 
 ## Technical delivery
 <!--
@@ -17,8 +22,28 @@ Covering the actual delivery of the project this section should provide at least
 
 Including target dates is really important as you need to be committed and the ISC need to have a means of tracking delivery
 -->
+**DrugVerse** tools are R packages and Shiny R applications detailed as follow:
+
+- **dbparser** (already released) --> an R package with different functionalities to parse different elements of DrugBank xml database.
+- **DrugMiner** (Expected to be released on December 2020) --> an R package that builds plots that are designed specifically for drug dicovery process in addition to an R shiny application that presents this plots and reports in an interactive and atrractive way.
+- **Drug Target Interaction Predictor** (Expected to be released on February 2020)--> an R package that implement different machine learning algorithms in which are designed specifically for Drug Discovery process along with different cross validations methods.
+- **Byakugan** (Expected to be released on February 2021)--> an R package that:
+
+  - retrieve and parse related drugs documents (i.e. articles, books, papers).
+  - apply different NLP and semantic algorithms for these documents to retrieve meaningful information.
+  - build semantic database with that information.
+  - build webservices to connect to other online drug semantic databases to enrich later phases of mining and prediction.
+  - apply mining and prediction algorithms on semantic data.
+  - In addition to the R package, an R shiny application will present the above features to the user with interactive and attractive plots and reports.
 
 ## Other aspects
+The following activities are intended to publish Drugverse tools:
+
+- present DrugVerse in [rPharma](http://rinpharma.com/) conference 2020,
+- write different papers for DrugVerse diferent tools and we intend to present them related Drug Discover conferences,
+- publish a site for each tool (i.e. [dbparser](https://dainanahan.github.io/dbparser/index.html))
+- publish posts about the tools in different channels (i.e. ResearchGate, Twitter, LinkedIn),
+- announce packages on different R communites channels.
 <!--
 Covering non-technical activities like on-going publicity, paper preparation, discussion groups etc. that might be required to facilitate successful delivery of the project.
 

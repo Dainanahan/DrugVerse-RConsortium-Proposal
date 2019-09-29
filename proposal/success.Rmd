@@ -24,11 +24,12 @@ How will we know when success is achieved, what markers can we use along the way
 How could this be extended / developed in the future by yourself and/or the community in general?
 -->
 We have the following short-term objectives in mind: 
-Conduct further research into taking advantage of heterogeneous information sources for enhancing the accuracy of the different prediction algorithms.
-Further our self-branding on social media (LinkedIn, ResearchGate, etc.) to improve our reach as well as attend conferences to show our work (see next section for more details).
-Make use of ensemble learning and deep learning to further improve accuracy of the prediction models.
-Utilizing Big Data technologies and tools in order to support the huge amounts of data that we will eventually be dealing with.
-Conduct a search for individuals who are willing to contribute to DrugVerse and who preferably possess a background in pharmaceuticals.
+
+- Conduct further research into taking advantage of heterogeneous information sources for enhancing the accuracy of the different prediction algorithms.
+- Further our self-branding on social media (LinkedIn, ResearchGate, etc.) to improve our reach as well as attend conferences to show our work (see next section for more details).
+- Make use of ensemble learning and deep learning to further improve accuracy of the prediction models.
+- Utilizing Big Data technologies and tools in order to support the huge amounts of data that we will eventually be dealing with.
+- Conduct a search for individuals who are willing to contribute to DrugVerse and who preferably possess a background in pharmaceuticals.
 
 
 ## Key risks
