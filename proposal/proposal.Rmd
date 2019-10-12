@@ -3,7 +3,7 @@
 This is where the proposal should be outlined. 
 -->
 
-DrugVerse provides pharmaceutical researchers with different tools that mimic the data science life cycle and helps them to achieve their missions in solving challenges pertaining to drug development.
+DrugVerse is an R ecosystem for drug discovery that provides pharmaceutical researchers with different tools that mimic the data science life cycle and helps them to achieve their missions in solving challenges pertaining to drug development.
 
 
 ## Overview
