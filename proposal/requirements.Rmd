@@ -40,14 +40,24 @@ We intend to host the project on the cloud (RStudio hosting service) to host dif
 <!-- 
 [TO DO] THE GUIDANCE IS PRETTY UNCLEAR, ESP IN LIGHT OF GABOR'S PROPOSAL VS AWARD SIZE
 -->
-We will require funding for:
 
-- the salaries of the personnel who will be working on this project, 
-- the hosting service on the cloud and to cover papers publishing and
-- conference attendance required fees.
+We kindly request a funding total of **55,000 USD** to fund this project to its 
+completion.  The breakdown is as follows:
+
+- **Maintenance and adding features for _dbparser_:** 5,000 USD
+- **Implementation, Testing and Release of _Drug Miner_:** 10,000 USD
+- **Implementation, Testing and Release of _Drug target interaction predictor_:** 10,000 USD
+- **Implementation, Testing and Release of _Byakugan_:** 15,000 USD
+- **Publishing articles at conferences and journals (plus travel expenses):** 10,000 USD
+- **Cloud hosting:** 5,000 USD
 
 ## Summary
 <!--
 A summary of the requirements that contextualises the costs
 -->
-Costs of this project consist of those for paying the salaries of the personnel working on this project and hosting the project on the cloud.
+Costs of this project consist of those for: 
+
+- paying the salaries of the personnel working on this project 
+- hosting the project on the cloud 
+- covering article publication and conference attending fees
+
