@@ -3,7 +3,7 @@
 This is where the proposal should be outlined. 
 -->
 
-DrugVerse is an R ecosystem for drug discovery that provides pharmaceutical researchers with different tools that mimic the data science life cycle and helps them to achieve their missions in solving challenges pertaining to drug development.
+drugverse is an R ecosystem for drug discovery that provides pharmaceutical researchers with different tools that mimic the data science life cycle and helps them to achieve their missions in solving challenges pertaining to drug development.
 
 
 ## Overview
@@ -11,7 +11,7 @@ DrugVerse is an R ecosystem for drug discovery that provides pharmaceutical rese
 At a high-level address what your proposal is and how it will address the problem identified. Highlight any benefits to the R Community that follow from solving the problem. This should be your most compelling section.
 -->
 
-Following is what DrugVerse would be capable of doing upon its completion:
+Following is what drugverse would be capable of doing upon its completion:
 
 - wrangle data obtained from different drugs-related data sources and formats into forms that are more analysis-ready under R,
 - explore and mine drugs-related data in Shiny applications containing user-friendly interfaces and interactive visualizations,
@@ -19,10 +19,10 @@ Following is what DrugVerse would be capable of doing upon its completion:
 - validate prediction results both quantitatively (via latest known statistical validation methods) and qualitatively (e.g. viewing highest-ranked predictions and highlighting those that are already known in the literature) in intuitive and easy-to-understand reports.
 
 
-Following the development of DrugVerse:
+Following the development of drugverse:
 
 - The R community would benefit from packages that perform data retrieval, data wrangling and building prediction models for drug development 
-- Practitioners in drug discovery would benefit from visualization facilities provided in DrugVerse that would enable them to explore data in an interactive manner
+- Practitioners in drug discovery would benefit from visualization facilities provided in drugverse that would enable them to explore data in an interactive manner
 - Practitioners would also be provided with facilities to implement cross validation strategies for use in drug discovery efforts
 
 
@@ -37,7 +37,7 @@ Depending on project type the detail section should include:
  - [ ] Architecture
  - [ ] Assumptions
 -->
-DrugVerse proposed tools are designed to handle the different stages of drug discovery data science projects lifecycle as follow:
+drugverse proposed tools are designed to handle the different stages of drug discovery data science projects lifecycle as follow:
 
 - **dbparser (currently at version 1.0.4, updated regularly)**:
 It is an R package. Its main purpose is to parse the DrugBank database which is downloadable in XML format into more than 75 R dataframes. These dataframes can then be explored and analyzed as desired by the user. This package further provides the facility of saving the parsed data into a given database (e.g. MySQL).
@@ -48,7 +48,7 @@ It is an R package. Its main purpose is to parse the DrugBank database which is 
   - DrugMiner is working on parsed data from **dbparser**
   - Displaying an interactive drug-target network.
   - Augmenting the visualized network with drug-enzyme, drug-transporter and drug-carrier relations.
-  - Selecting certain drugs to perform specific tasks on them using one of the other tools that are available in DrugVerse such as the Drug-Target Interaction Predictor (see below).
+  - Selecting certain drugs to perform specific tasks on them using one of the other tools that are available in drugverse such as the Drug-Target Interaction Predictor (see below).
   
 - **Drug Target Interaction Predictor (under development)**:
 Drug-Target Interaction Predictor is an R package that provides implementations of different algorithms for predicting drug-target interactions. These algorithms can be categorized as follows:

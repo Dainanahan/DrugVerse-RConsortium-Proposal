@@ -1,6 +1,6 @@
-**DrugVerse** provides pharmaceutical researchers with different tools that mimic the data science life cycle and helps them to achieve their missions in solving challenges pertaining to drug development.
+**drugverse** provides pharmaceutical researchers with different tools that mimic the data science life cycle and helps them to achieve their missions in solving challenges pertaining to drug development.
 
-Following is what **DrugVerse** would be capable of doing after its completion:
+Following is what **drugverse** would be capable of doing after its completion:
 
 
 - wrangle data obtained from different drugs-related data sources and formats into forms that are more analysis-ready under R,

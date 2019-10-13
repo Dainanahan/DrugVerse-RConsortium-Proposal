@@ -20,7 +20,7 @@ Who are the people responsible for actually delivering the project if the propos
 <!-- 
 Who are the people who have actively helped with this proposal but won't necessarily be on the core project team later?
 -->
-Contributors are all DrugVerse users who reported bugs in or requested features to be added to DrugVerse.
+Contributors are all drugverse users who reported bugs in or requested features to be added to drugverse.
 
 ## Consulted
 <!-- 

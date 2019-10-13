@@ -1,4 +1,4 @@
-DrugVerse-RConsortium-Proposal
+drugverse-RConsortium-Proposal
 ================
 Mohammed Ali
 2019-09-29
@@ -29,8 +29,8 @@ Who are the people responsible for actually delivering the project if the propos
 Who are the people who have actively helped with this proposal but won't necessarily be on the core project team later?
 -->
 
-Contributors are all DrugVerse users who reported bugs in or requested
-features to be added to DrugVerse.
+Contributors are all drugverse users who reported bugs in or requested
+features to be added to drugverse.
 
 ## Consulted
 
@@ -83,7 +83,7 @@ It is important to cover:
 This is where the proposal should be outlined. 
 -->
 
-DrugVerse provides pharmaceutical researchers with different tools that
+drugverse provides pharmaceutical researchers with different tools that
 mimic the data science life cycle and helps them to achieve their
 missions in solving challenges pertaining to drug development.
 
@@ -93,7 +93,7 @@ missions in solving challenges pertaining to drug development.
 At a high-level address what your proposal is and how it will address the problem identified. Highlight any benefits to the R Community that follow from solving the problem. This should be your most compelling section.
 -->
 
-Following is what DrugVerse would be capable of doing upon its
+Following is what drugverse would be capable of doing upon its
 completion:
 
   - wrangle data obtained from different drugs-related data sources and
@@ -110,13 +110,13 @@ completion:
     known in the literature) in intuitive and easy-to-understand
     reports.
 
-Following the development of DrugVerse:
+Following the development of drugverse:
 
   - The R community would benefit from packages that perform data
     retrieval, data wrangling and building prediction models for drug
     development
   - Practitioners in drug discovery would benefit from visualization
-    facilities provided in DrugVerse that would enable them to explore
+    facilities provided in drugverse that would enable them to explore
     data in an interactive manner
   - Practitioners would also be provided with facilities to implement
     cross validation strategies for use in drug discovery efforts
@@ -133,7 +133,7 @@ Depending on project type the detail section should include:
  - [ ] Assumptions
 -->
 
-DrugVerse proposed tools are designed to handle the different stages of
+drugverse proposed tools are designed to handle the different stages of
 drug discovery data science projects lifecycle as follow:
 
   - **dbparser (currently at version 1.0.4, updated regularly)**: It is
@@ -151,7 +151,7 @@ drug discovery data science projects lifecycle as follow:
       - Augmenting the visualized network with drug-enzyme,
         drug-transporter and drug-carrier relations.
       - Selecting certain drugs to perform specific tasks on them using
-        one of the other tools that are available in DrugVerse such as
+        one of the other tools that are available in drugverse such as
         the Drug-Target Interaction Predictor (see below).
 
   - **Drug Target Interaction Predictor (under development)**:
@@ -214,7 +214,7 @@ Covering the actual delivery of the project this section should provide at least
 Including target dates is really important as you need to be committed and the ISC need to have a means of tracking delivery
 -->
 
-**DrugVerse** tools are R packages and Shiny R applications detailed as
+**drugverse** tools are R packages and Shiny R applications detailed as
 follow:
 
   - **dbparser** (already released) –\> an R package with different
@@ -248,11 +248,11 @@ follow:
 
 ## Other aspects
 
-The following activities are intended to publish Drugverse tools:
+The following activities are intended to publish drugverse tools:
 
-  - present DrugVerse in [rPharma](http://rinpharma.com/) conference
+  - present drugverse in [rPharma](http://rinpharma.com/) conference
     2020,
-  - write different papers for DrugVerse diferent tools and we intend to
+  - write different papers for drugverse diferent tools and we intend to
     present them related Drug Discover conferences,
   - publish a site for each tool
     (i.e. [dbparser](https://dainanahan.github.io/dbparser/index.html))
@@ -293,14 +293,14 @@ It is required to have the dedication of a minimum of:
 What processes need to be put in place e.g. codes of conduct, regular ISC meetings, handover to the community at large?
 -->
 
-At present, DrugVerse is being developed under the MIT license, and the
+At present, drugverse is being developed under the MIT license, and the
 link below has our code of conduct:
 <https://github.com/Dainanahan/dbparser/blob/master/CODE_OF_CONDUCT.md>
 
 We are meeting regularly for the sake of:
 
-  - discussing DrugVerse’s proposed features and how to implement them
-  - responding to the latest issues raised by users of DrugVerse
+  - discussing drugverse’s proposed features and how to implement them
+  - responding to the latest issues raised by users of drugverse
 
 ## Tools & Tech
 
@@ -313,7 +313,7 @@ Are there tools or tech that don't exist that will be produced to facilitate the
 -->
 
 We intend to host the project on the cloud (RStudio hosting service) to
-host different web applications and data stores pertaining to DrugVerse.
+host different web applications and data stores pertaining to drugverse.
 
 ## Funding
 
@@ -348,8 +348,8 @@ Projects should have a definition of done that is measurable, and a thorough und
 What does success look like? 
 -->
 
-The DrugVerse series of packages would all be successfully uploaded to
-CRAN, and a Shiny R server that is using DrugVerse would be hosted on
+The drugverse series of packages would all be successfully uploaded to
+CRAN, and a Shiny R server that is using drugverse would be hosted on
 Shiny’s hosting service (R Studio).
 
 ## Measuring success
@@ -359,13 +359,13 @@ How will we know when success is achieved, what markers can we use along the way
 -->
 
   - The packages would easily accessible and downloadable from CRAN
-  - The users of DrugVerse and/or its Shiny R server would be able to
-    provide us with feedback via DrugVerse’s GitHub pages and via email
-  - Many users would fork/star DrugVerse’s repository on GitHub as well
+  - The users of drugverse and/or its Shiny R server would be able to
+    provide us with feedback via drugverse’s GitHub pages and via email
+  - Many users would fork/star drugverse’s repository on GitHub as well
     as submitting pull requests to be approved
   - We will have published a few papers on the different features
-    provided in DrugVerse
-  - Users of DrugVerse would cite our papers in their work
+    provided in drugverse
+  - Users of drugverse would cite our papers in their work
 
 ## Future work
 
@@ -386,7 +386,7 @@ We have the following short-term objectives in mind:
   - Utilizing Big Data technologies and tools in order to support the
     huge amounts of data that we will eventually be dealing with.
   - Conduct a search for individuals who are willing to contribute to
-    DrugVerse and who preferably possess a background in
+    drugverse and who preferably possess a background in
     pharmaceuticals.
 
 ## Key risks
@@ -405,6 +405,6 @@ What sort of things could come up that can delay or break the project?
     (especially the full-timers) leave for whatever reason.
   - Some of the employees reside in other countries and communicating
     with them may not always be efficient online.
-  - Untimely delivery of DrugVerse’s tools
+  - Untimely delivery of drugverse’s tools
   - Costs of salaries and web-hosting services might not be adequately
     covered by the provided funds,
